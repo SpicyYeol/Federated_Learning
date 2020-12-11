@@ -1,1 +1,1 @@
-__all__=['FedAvg']
+__all__ = ['FedAvg']
