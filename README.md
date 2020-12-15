@@ -1,4 +1,9 @@
 # Federated_Learning
 
-Federated Learning test project
-연합학습 테스트 프로젝트
+## Federated Learning test project
+
+* RULES
+   + FedAvg
+   
+* MODELS
+   + CNN
