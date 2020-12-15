@@ -4,6 +4,6 @@
 
 * RULES
    + FedAvg
-   
+   + FedProx(in Progress)
 * MODELS
    + CNN
